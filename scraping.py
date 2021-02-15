@@ -117,6 +117,7 @@ def hemisphere_urls(browser):
         hemisphere_image_urls.append(hemisphere)
         
         browser.back()
+    print(hemisphere_image_urls)
 
     return hemisphere_image_urls
 
