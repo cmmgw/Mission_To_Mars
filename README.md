@@ -5,8 +5,8 @@ Data was scraped from numerous websites to create a webpage, which highlights da
 
 ### Resources Utilized to Complete Analysis
 * **Data Sources:** 
-* [NASA Mars Exploration Program News](https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest)
-* [Jet Propulsion Laboratory Mars Space Images – Featured Image](https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html)
+* [NASA Mars Exploration Program: Latest Mars News](https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest)
+* [NASA Jet Propulsion Laboratory: Featured Mars Image](https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html)
 * [Space Facts: Mars Facts](https://space-facts.com/mars/)
 * [USGS Astrogeology: Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
 
